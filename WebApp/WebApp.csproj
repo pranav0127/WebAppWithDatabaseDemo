@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.All" Version="3.1.18" />
-    <FrameworkReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.18" />
+<!--     <FrameworkReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.18" /> -->
   </ItemGroup>
 
   <ItemGroup>
