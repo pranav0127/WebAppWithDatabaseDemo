@@ -1,12 +1,12 @@
-<!-- <Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="3.1.18" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.18" />
+    <FrameworkReference Include="Microsoft.AspNetCore.All" Version="3.1.18" />
+    <FrameworkReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.18" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,15 +14,4 @@
   </ItemGroup>
 
 </Project>
- -->
-<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <FrameworkReference Include="Microsoft.AspNetCore.App" />
-  </ItemGroup>
-
-</Project>
