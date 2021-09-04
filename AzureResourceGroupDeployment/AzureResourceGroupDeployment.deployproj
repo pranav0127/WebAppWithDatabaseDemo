@@ -20,7 +20,7 @@
   <Import Condition=" Exists('Deployment.targets') " Project="Deployment.targets" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
   <!-- vertag<:>start tokens<:>maj.min -->
-  <Import Condition=" Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Deployment\1.1\DeploymentProject.targets') " Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Deployment\1.1\DeploymentProject.targets" />
+  <Import Condition=" Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\Deployment\1.1\DeploymentProject.targets') " Project="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\Deployment\1.1\DeploymentProject.targets" />
   <!-- vertag<:>end -->
   <ItemGroup>
     <None Include="Deployment.targets">
