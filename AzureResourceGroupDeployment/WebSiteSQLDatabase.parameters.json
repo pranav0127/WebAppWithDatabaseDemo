@@ -6,19 +6,19 @@
       "value": "houssemdellai-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "sqldatabase"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "Shubham@12345"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "Shubham-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "Shubham-sql"
     }
   }
 }
